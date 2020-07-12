@@ -1,17 +1,20 @@
-### Hi there 👋
+
 
 <!--
 **Abiola-Farounbi/Abiola-Farounbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
-![Brand](FAE.jpg)
+### Hi !!! 👋
+![Brand](https://res.cloudinary.com/dsderm9xw/image/upload/c_scale,h_500,w_1000/v1594514366/FAE_r4uzm0.jpg)
+### I am a Front-end developer and sometimes a technical writer. I am passionate about devolping and designing user friendly web applications.
+*[My personal page](https://abiolaesther.netlify.app/)*
+
+- 👯 I’m looking to collaborate on different open-source projects
+- 💬 Ask me about - Javascript ❤️ 
+-  👩‍💻 Currently learning - React
+- 📫 How to reach me: [Twitter](https://twitter.com/abiolaesther_)
+- 🤝 Connect with me on LinkedIn :[LinkedIn](https://www.linkedin.com/in/abiola-farounbi-94ba571ao)
+- ⚡ Fun fact: I love watching and giving reviews on movies 😜
