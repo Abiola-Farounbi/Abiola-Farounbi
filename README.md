@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 **[MY PORTFOLIO](https://abiolaesther.netlify.app/)**
 
 *ABOUT ME...*
-<br></br>
+
 - 👯 I’m looking to collaborate on different open-source projects
 - 💬 Ask me about: Javascript ❤️ 
 -  👩‍💻 Currently learning: React
