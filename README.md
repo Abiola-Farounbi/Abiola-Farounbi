@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 *[My personal page](https://abiolaesther.netlify.app/)*
 
 - 👯 I’m looking to collaborate on different open-source projects
-- 💬 Ask me about - Javascript ❤️ 
--  👩‍💻 Currently learning - React
+- 💬 Ask me about: Javascript ❤️ 
+-  👩‍💻 Currently learning: React
 - 📫 How to reach me: [Twitter](https://twitter.com/abiolaesther_)
-- 🤝 Connect with me on LinkedIn :[LinkedIn](https://www.linkedin.com/in/abiola-farounbi-94ba571ao)
+- 🤝 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
 - ⚡ Fun fact: I love watching and giving reviews on movies 😜
