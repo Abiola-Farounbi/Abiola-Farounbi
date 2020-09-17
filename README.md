@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 -->
 ## Hi !!! 👋
+<br>
 ![Brand](firstCover.jpg)
 <br>
 ### I am a Front-end developer and sometimes i write technical articles. I am passionate about devolping and designing user friendly and web accessible applications.
