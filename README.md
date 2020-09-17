@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 -->
 ### Hi !!! 👋
-![Brand](https://res.cloudinary.com/dsderm9xw/image/upload/c_scale,h_500,w_1000/v1594514366/FAE_r4uzm0.jpg)
+![Brand](firstCover.jpg)
 ### I am a Front-end developer and sometimes i write technical articles. I am passionate about devolping and designing user friendly and web accessible applications.
-*[My personal page](https://abiolaesther.netlify.app/)*
+**[MY PORTFOLIO](https://abiolaesther.netlify.app/)**
 
 - 👯 I’m looking to collaborate on different open-source projects
 - 💬 Ask me about: Javascript ❤️ 
