@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - 🤝 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
 - ⚡ Fun fact: I love watching and giving reviews on movies 😜
 <br></br>
+
+![Abiola's github stats](https://github-readme-stats.vercel.app/api?username=Abiola-Farounbi&show_icons=true&theme=synthwave)
+
 [![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Abiola-Farounbi?label=follow&style=social)](https://github.com/Abiola-Fraounbi) 
