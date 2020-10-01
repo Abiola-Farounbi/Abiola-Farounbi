@@ -1,29 +1,42 @@
+# <p align='center'> Hi 👋 </p>
 
+---
 
-<!--
-**Abiola-Farounbi/Abiola-Farounbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-## Hi !!! 👋
-<br></br>
 ![Brand](firstCover.jpg)
-<br>
-### I am a Front-end developer and sometimes i write technical articles. I am passionate about devolping and designing user friendly and web accessible applications.
-**[MY PORTFOLIO](https://abiolaesther.netlify.app/)**
 
-*ABOUT ME...*
+---
 
-- 👯 I’m looking to collaborate on different open-source projects
+**ABOUT ME...**
+<p align='center'>
+<h4> I am a Front-end developer and sometimes i write technical articles. I am passionate about devolping and designing user friendly and web accessible applications. </h4>
+
+ Checkout my portfolio - **[MY PORTFOLIO](https://abiola-farounbi.github.io/Portfolio2/)** 
+
+- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 - 💬 Ask me about: Javascript ❤️ 
 -  👩‍💻 Currently learning: React
-- 📫 How to reach me: [![Twitter: abiolaesther_](https://img.shields.io/twitter/follow/abiolaesther_?style=social)](https://twitter.com/abiolaesther_)
-- 🤝 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
 - ⚡ Fun fact: I love watching and giving reviews on movies 😜
-<br></br>
 
-![Abiola's github stats](https://github-readme-stats.vercel.app/api?username=Abiola-Farounbi&show_icons=true&theme=synthwave)
+**TECHNOLOGIES I WORK WITH**
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+
+## 🌐 **REACH ME ON**
+
+- [![Linkedin:AbiolaFarounbi](https://img.shields.io/badge/-AbiolaFarounbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
+- [![Twitter: abiolaesther_](https://img.shields.io/twitter/follow/abiolaesther_?style=social)](https://twitter.com/abiolaesther_)
+
+
+</p>
+
+
+**GITHUB STAT'S**
+
+![stats](https://github-readme-stats.vercel.app/api?username=Abiola-Farounbi&show_icons=true&theme=synthwave)
 
 [![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Abiola-Farounbi?label=follow&style=social)](https://github.com/Abiola-Fraounbi) 
