@@ -26,7 +26,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 
-## 🌐 **REACH ME ON**
+ 🌐 **REACH ME ON**
 
 - [![Linkedin:AbiolaFarounbi](https://img.shields.io/badge/-AbiolaFarounbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
 - [![Twitter: abiolaesther_](https://img.shields.io/twitter/follow/abiolaesther_?style=social)](https://twitter.com/abiolaesther_)
