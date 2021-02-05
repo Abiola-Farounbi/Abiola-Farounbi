@@ -15,7 +15,7 @@
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 💬 Ask me about: Javascript ❤️ 
--  👩‍💻 Currently learning: React
+-  👩‍💻 Currently learning: VUE
 - ⚡ Fun fact: I love watching and giving reviews on movies 😜
 
 **TECHNOLOGIES I WORK WITH**
