@@ -8,7 +8,7 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a Front-end developer and sometimes i write technical articles. I am passionate about devolping and designing user friendly and web accessible applications. </h4>
+<h4> Abiola Farounbi is a front-end developer passionate about creating user-friendly and accessible web applications. She also writes technical articles on various web technologies in her [Blog](https://abiolaesther.me/writing.html) </h4>
 
  Checkout my portfolio - **[MY PORTFOLIO](https://abiola-farounbi.github.io/Portfolio2/)** 
 
