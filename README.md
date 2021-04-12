@@ -8,15 +8,15 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> Abiola Farounbi is a front-end developer passionate about creating user-friendly and accessible web applications. She also writes technical articles on various web technologies in her [Blog](https://abiolaesther.me/writing.html) </h4>
+<h4> Abiola Farounbi is a front-end developer passionate about creating user-friendly and accessible web applications. She also writes technical articles on various web technologies in her Blog </h4> 
 
  Checkout my portfolio - **[MY PORTFOLIO](https://abiola-farounbi.github.io/Portfolio2/)** 
 
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 💬 Ask me about: Javascript ❤️ 
--  👩‍💻 Currently learning: VUE
-- ⚡ Fun fact: I love watching and giving reviews on movies 😜
+-  👩‍💻 Currently learning: VUE 
+- ⚡ Fun fact: I love watching and giving reviews on movies 😜, [My Personal Movie List](https://www.notion.so/Movie-List-d302c232eb654994988363004c4c015f)
 
 **TECHNOLOGIES I WORK WITH**
 
