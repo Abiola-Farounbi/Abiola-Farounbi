@@ -23,8 +23,11 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Vue-38b2ac?style=for-the-badge&logo=tailwindcss)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Vue Js](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue)
+
 
  🌐 **REACH ME ON**
 
