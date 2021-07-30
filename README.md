@@ -23,10 +23,10 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Vue-38b2ac?style=for-the-badge&logo=tailwindcss)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Vue Js](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue)
+![Vue Js](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=Vue&logoColor=ffff3f)
 
 
  🌐 **REACH ME ON**
