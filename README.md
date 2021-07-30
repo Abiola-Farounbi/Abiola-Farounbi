@@ -26,7 +26,7 @@
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Vue Js](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=Vue&logoColor=ffff3f)
+![Vue Js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
  🌐 **REACH ME ON**
