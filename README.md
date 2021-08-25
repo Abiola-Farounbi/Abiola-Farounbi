@@ -1,10 +1,10 @@
 # <p align='center'> Hi 👋 </p>
 
----
+<!-- ---
 
 ![Brand](firstCover.jpg)
 
----
+--- -->
 
 **ABOUT ME...**
 <p align='center'>
