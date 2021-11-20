@@ -8,11 +8,11 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> Abiola Farounbi is a front-end developer passionate about creating user-friendly and accessible web applications. She also writes technical articles on various web technologies in her Blog </h4> 
+<h4> I am a front-end developer and an adept technical writer. I have great passion for creating user-friendly and accessible web applications using differnt technologies </h4> 
 
  Checkout my portfolio - **[MY PORTFOLIO](https://abiola-farounbi.github.io/Portfolio2/)** 
 
-- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 💬 Ask me about: Javascript ❤️ 
 -  👩‍💻 Currently learning: PYTHON
@@ -27,6 +27,8 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Vue Js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
+
 
 
  🌐 **REACH ME ON**
