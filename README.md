@@ -8,15 +8,15 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a front-end developer and an adept technical writer. I have great passion for creating user-friendly and accessible web applications using differnt technologies </h4> 
+<h4> I am a front-end engineer and an adept technical writer. I have great passion for creating user-friendly and accessible web applications using differnt technologies </h4> 
 
  Checkout my portfolio - **[MY PORTFOLIO](https://abiola-farounbi.github.io/Portfolio2/)** 
 
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- 💬 Ask me about: Javascript ❤️ 
--  👩‍💻 Currently learning: PYTHON
-- ⚡ Fun fact: I love watching and giving reviews on movies 😜, [My Personal Movie List](https://www.notion.so/Movie-List-d302c232eb654994988363004c4c015f)
+- 💬 Ask me about: Javascript,Technical Writing ❤️ 
+-  👩‍💻 Currently learning: Jamstack
+- ⚡ Fun fact: I love watching and giving reviews on [movies](https://www.notion.so/Movie-List-d302c232eb654994988363004c4c015f) 😜
 
 **TECHNOLOGIES I WORK WITH**
 
