@@ -8,7 +8,7 @@
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a front-end engineer and an adept technical writer. I have great passion for creating user-friendly and accessible web applications using differnt technologies </h4> 
+<h4> I am a front-end engineer and an adept technical writer. I have a great passion for creating user-friendly and accessible web applications using different technologies </h4> 
 
  Checkout my portfolio - **[MY PORTFOLIO](https://abiola-farounbi.github.io/Portfolio2/)** 
 
