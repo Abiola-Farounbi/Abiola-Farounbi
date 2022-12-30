@@ -16,7 +16,7 @@
 
 - 💬 Ask me about: Javascript,Technical Writing ❤️ 
 -  👩‍💻 Currently learning: Jamstack
-- ⚡ Fun fact: I love watching and giving reviews on [movies](https://www.notion.so/Movie-List-d302c232eb654994988363004c4c015f) 😜
+- ⚡ Fun fact: I love watching and giving reviews on [movies](https://abiolaesther.notion.site/Movie-List-d302c232eb654994988363004c4c015f) 😜
 
 **TECHNOLOGIES I WORK WITH**
 
