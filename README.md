@@ -14,7 +14,7 @@
 
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- 💬 Ask me about: Javascript,Technical Writing ❤️ 
+- 💬 Ask me about: Javascript,Technical Writing,Vue❤️ 
 -  👩‍💻 Currently learning: Jamstack
 - ⚡ Fun fact: I love watching and giving reviews on [movies](https://abiolaesther.notion.site/Movie-List-d302c232eb654994988363004c4c015f) 😜
 
